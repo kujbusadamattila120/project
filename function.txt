@@ -1,1 +1,2 @@
 function Add(a, b) { return a + b; }
+factorial(5);
